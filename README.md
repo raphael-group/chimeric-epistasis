@@ -1,4 +1,4 @@
-# Code accompanying manuscript "Quantifying higher-order epistasis: beware the chimera"
+# Code for "Quantifying higher-order epistasis: beware the chimera"
 
 This repository contains the code for the analyses in the manuscript "Quantifying higher-order epistasis: beware the chimera". In these analyses, we compare the multiplicative and the "chimeric" epistasis measures for quantifying higher-order interactions between mutations, drug, or other perturbations.
 

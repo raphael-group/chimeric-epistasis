@@ -12,11 +12,12 @@ Required packages:
 
 ## Yeast epistasis analysis
 
-...
+The notebook `Kuzmin_data_analysis.ipynb` in the directory `yeast_screens` contains all the analyses to reproduce our results on three-way interactions in yeast. WARNING: refactoring of this code is in progress.
 
 ## Drug interaction analysis
 
-...
+The notebook `drug_interaction_reanalysis_additive.ipynb` in the directory `drug_data` contains all the analyses to reproduce our results on higher-order interactions between antibiotics. WARNING: refactoring of this code is in progress.
+
 
 ## Protein epistasis analysis
 

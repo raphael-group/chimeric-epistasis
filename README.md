@@ -26,3 +26,22 @@ The notebook `drug_interaction_reanalysis_additive.ipynb` in the directory `drug
 ## Protein epistasis analysis
 
 The notebook `protein_epistasis.ipynb` contains code to reproduce the analyses in the manuscript. We have included all data files in the folder `protein_data`, one file for each protein analyzed. We obtained these files from the original publications; we append the name of the protein to the beginning of the name of the original data file.
+
+## Citations
+
+The manuscript is available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.07.17.603976v1). If you use our code for your work, please cite our paper.
+
+```
+@article {Chitra2024.07.17.603976,
+	author = {Chitra, Uthsav and Arnold, Brian J and Raphael, Benjamin},
+	title = {Quantifying higher-order epistasis: beware the chimera},
+	elocation-id = {2024.07.17.603976},
+	year = {2024},
+	doi = {10.1101/2024.07.17.603976},
+	publisher = {Cold Spring Harbor Laboratory},
+	URL = {https://www.biorxiv.org/content/early/2024/07/19/2024.07.17.603976},
+	eprint = {https://www.biorxiv.org/content/early/2024/07/19/2024.07.17.603976.full.pdf},
+	journal = {bioRxiv}
+}
+
+```

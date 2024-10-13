@@ -3,12 +3,15 @@
 This repository contains the code for the analyses in the manuscript "Quantifying higher-order epistasis: beware the chimera". In these analyses, we compare the multiplicative and the "chimeric" epistasis measures for quantifying higher-order interactions between mutations, drug, or other perturbations.
 
 Required packages:
-* Numpy
-* Matplotlib
-* Pandas
-* itertools
-* Scipy
-* Seaborn
+* Numpy (>= 1.23.4)
+* Matplotlib (>= 3.8.0)
+* Pandas (>= 2.1.1)
+* Scipy (>= 1.11.2)
+* Seaborn (>= 0.12.2)
+
+Code tested using standard Macbook Pro.
+
+To run each of the analyses, see the following notebooks. Runtime should not take more than 20 minutes. See notebooks for expected output.
 
 ## Yeast epistasis analysis
 
